@@ -19,9 +19,7 @@ namespace API.Controllers
             _context = context;
         }
 
-        public ProductsController()
-        {
-        }
+      
 
         [HttpGet]
         public async Task<ActionResult<List<Product>>> GetProducts() {
