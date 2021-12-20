@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{EE1EC98E-8639-4563-AA29-5405C06948AB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="API/Middleware/ExceptionMiddleware.cs">
+    <Files>
+      <File FileName="API/Data/StoreContext.cs" Line="12" Column="10" />
+      <File FileName="API/Startup.cs" />
+      <File FileName="API/appsettings.json" />
+      <File FileName="API/Data/Migrations/20211218202249_InitialCreate.cs" />
+      <File FileName="API/Data/DbInitializer.cs" />
+      <File FileName="API/Program.cs" />
+      <File FileName="API/Controllers/ProductsController.cs" />
+      <File FileName="API/Controllers/BuggyController.cs" />
+      <File FileName="API/Middleware/ExceptionMiddleware.cs" Line="17" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Restore" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="Middleware" expanded="True">
+                <Node name="ExceptionMiddleware.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
